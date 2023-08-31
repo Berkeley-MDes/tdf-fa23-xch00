@@ -8,7 +8,7 @@
 
 As I had already mastered the use of Rhino and GH during my undergraduate studies, I focused this week's learning on the use of laser-cutting machines. Although we encountered some unexpected small problems, my classmates and I successfully completed the process of learning the basic principles, testing, and actual operation. We also learned the details that are easily overlooked in the process of using laser-cutting machines. 😈Devils are in the details!!
 
-![w2001.jpg](weekly-reports/WeeklyReport002🥽/w2000.jpg)
+![w2001.jpg](weekly-reports/WeeklyReport002🥽/w2001.jpg)
 
 🛠️The teacher was explaining the details of using the machine, even though we already learned about it in the video. However, in actual operation, we still tend to overlook many details, such as properly measuring the material thickness, turning on and off the machine, inputting material thickness, and determining the starting point for the machine cutting, etc…
 
