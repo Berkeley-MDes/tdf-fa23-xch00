@@ -16,11 +16,11 @@ As I had already mastered the use of Rhino and GH during my undergraduate studie
 
 🛠️The first time I printed, I didn't pay attention to the scale of the document, so I ended up with a mini stand! It's super cute!
 
-![w2002.jpg](WeeklyReport002%F0%9F%A5%BD%20ff0c4754fb2142c28a6aa25755b23476/w2002.jpg)
+![w2002.jpg](WeeklyReport002🥽/w2002.jpg)
 
 Later, a few of us classmates collaborated to print the board, and each person operated the machine to follow the usage process. Although there were still some minor issues (one line drawing was lost), we quickly reprinted it.
 
-![w2003.jpg](WeeklyReport002%F0%9F%A5%BD%20ff0c4754fb2142c28a6aa25755b23476/w2003.jpg)
+![w2003.jpg](WeeklyReport002🥽/w2003.jpg)
 
 ---
 
@@ -31,4 +31,4 @@ Later, a few of us classmates collaborated to print the board, and each person o
 
 This week I discovered **Enzo Mari**, a furniture designer, and it was he who inspired my interest in making models. I also realized how the concepts of architecture and parametric design flow into small-scale product design, creating an unlimited fusion of knowledge without boundaries.
 
-![1bd7479ace61d066ae5a3a9eb328005.png](WeeklyReport002%F0%9F%A5%BD%20ff0c4754fb2142c28a6aa25755b23476/1bd7479ace61d066ae5a3a9eb328005.png)
+![1bd7479ace61d066ae5a3a9eb328005.png](WeeklyReport002🥽/1bd7479ace61d066ae5a3a9eb328005.png)
