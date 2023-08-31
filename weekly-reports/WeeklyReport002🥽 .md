@@ -12,7 +12,7 @@ As I had already mastered the use of Rhino and GH during my undergraduate studie
 
 🛠️The teacher was explaining the details of using the machine, even though we already learned about it in the video. However, in actual operation, we still tend to overlook many details, such as properly measuring the material thickness, turning on and off the machine, inputting material thickness, and determining the starting point for the machine cutting, etc…
 
-![w2000.jpg](WeeklyReport002%F0%9F%A5%BD%20ff0c4754fb2142c28a6aa25755b23476/w2000.jpg)
+![w2000.jpg](WeeklyReport002🥽/w2000.jpg)
 
 🛠️The first time I printed, I didn't pay attention to the scale of the document, so I ended up with a mini stand! It's super cute!
 
