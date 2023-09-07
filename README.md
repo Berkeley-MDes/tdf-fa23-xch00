@@ -11,7 +11,7 @@ The specific file that I’m typing into right now is the **README.md** for this
 
 ### :star: Whatever you write in your **README.md** will show up on the “front page” of your GitHub repo. This is where we’ll be looking for your [weekly progress reports](https://github.com/Berkeley-MDes/desinv-202/wiki/3.0-Weekly-Submissions). They might look something like this: ###
 ---
-weekly-reports/WeeklyReport003🧐.md 
+[WeeklyReport003🧐] (https://github.com/Berkeley-MDes/tdf-fa23-xch00/blob/4a190c7670d57ed29d32f0ad0fd2a49de4110dc5/weekly-reports/WeeklyReport003%F0%9F%A7%90.md) 
 ---
 
 
