@@ -6,7 +6,7 @@
 
 This week, I followed my teacher's video to adjust the parameters of the phone holder and tested its gravity stability, which means whether the phone will overturn on the holder.🥳
 
-![w3001.png](Weekly%20Report003%F0%9F%A7%90%2037554e5c5c354dc392e433d5b09b0683/w3001.png)
+![w3001.png](Weekly Report003🧐/w3001.png)
 
 After completing this video tutorial, I realized that when watching other classmates do 3D printing in the makerspace, most of models used resulted in a lot of material waste. Therefore, I want to use some methods to optimize the shape in order to achieve the goal of material conservation.
 
