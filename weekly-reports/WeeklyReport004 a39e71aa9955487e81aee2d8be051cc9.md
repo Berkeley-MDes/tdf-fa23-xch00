@@ -4,7 +4,7 @@
 
 ---
 
-![幻灯片2.JPG](WeeklyReport004%20a39e71aa9955487e81aee2d8be051cc9/%25E5%25B9%25BB%25E7%2581%25AF%25E7%2589%25872.jpg)
+![2.JPG](WeeklyReport004%20a39e71aa9955487e81aee2d8be051cc9/%25E5%25B9%25BB%25E7%2581%25AF%25E7%2589%25872.jpg)
 
 Last week, I conducted a more in-depth analysis of the phone stand from a computational design perspective and contemplated using computational methods for topology optimization of the support structure.
 
