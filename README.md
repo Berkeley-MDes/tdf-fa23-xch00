@@ -17,7 +17,8 @@ The specific file that I’m typing into right now is the **README.md** for this
 ---
 [WeeklyReport004](https://github.com/Berkeley-MDes/tdf-fa23-xch00/blob/4048280c6cbfafbc5554b82da1561a699bd72819/weekly-reports/WeeklyReport004.md)
 ---
-
+[WeeklyReport005](https://github.com/Berkeley-MDes/tdf-fa23-xch00/blob/92fff0d600bda0d3674d7bd6185bca108e045ddf/weekly-reports/W5/WeeklyReport005%201761b9b251894761ae51cb18486288cc.md)
+---
 
 Either way, it's time to start making this space your own! If you want to save these instructions -- Don't worry, I already copied them over to another file for you [here.](welcomeREADME.md) So feel empowered to delete everything in this README.md and start documenting! 
 
